@@ -6,7 +6,7 @@ category: "اللياقة البدنية"
 description: "أفضل التمارين الرياضية الآمنة لكبار السن لتحسين الصحة العامة"
 author: "عناية طبيب الطبية"
 readingTime: "5"
-image: "/assets/blog/Healthy nutrition for the elderly.jpg"
+image: "/assets/blog/Healthy routine for the elderly.webp"
 ---
 
 # التمارين الرياضية المناسبة لكبار السن

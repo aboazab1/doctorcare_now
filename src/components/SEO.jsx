@@ -16,8 +16,14 @@ const SEO = ({
   const defaultTitle = 'ممرضة للبيت في الرياض | تمريض منزلي الرياض | عناية طبيب';
   const defaultDescription = 'ممرضة للبيت في الرياض - خدمات تمريض منزلي احترافية في الرياض. ممرضات معتمدات للرعاية المنزلية، رعاية كبار السن، تمريض الأطفال، وخدمات طبية منزلية في الرياض. تواصل معنا الآن.';
   const defaultKeywords = 'ممرضة للبيت في الرياض، ممرضة منزلية الرياض، تمريض منزلي الرياض، ممرضة للبيت، ممرضة في الرياض، رعاية منزلية الرياض، تمريض منزلي، ممرضة معتمدة الرياض، رعاية كبار السن الرياض، تمريض الأطفال الرياض، خدمات طبية منزلية الرياض، ممرضة 24 ساعة الرياض، رعاية طبية منزلية، تمريض منزلي، طبيب منزلي، رعاية كبار السن، تمريض الأطفال، الرياض، السعودية';
-  const defaultImage = 'https://doctorcaresa.com/assets/logo.png';
+  const defaultImage = 'https://doctorcaresa.com/assets/logo.webp';
   const siteUrl = 'https://doctorcaresa.com';
+  const socialSameAs = [
+    'https://www.facebook.com/share/1Csh2Q4X3D/',
+    'https://www.instagram.com/doctor_care1/',
+    'https://x.com/doctor_care_1',
+    'https://www.threads.com/@doctor_care1?xmt=AQF0wvmsQmvG3LZsNNoRGNzMmD9sQ7dPxb_LMuZO1CtO9Bg',
+  ];
 
   const seoTitle = title ? `${title} | ${defaultTitle}` : defaultTitle;
   const seoDescription = description || defaultDescription;
@@ -92,7 +98,7 @@ const SEO = ({
           "url": siteUrl,
           "logo": {
             "@type": "ImageObject",
-            "url": `${siteUrl}/assets/logo.png`,
+            "url": `${siteUrl}/assets/logo.webp`,
             "width": 512,
             "height": 512
           },
@@ -103,11 +109,7 @@ const SEO = ({
             "areaServed": "SA",
             "availableLanguage": ["Arabic", "English"]
           },
-          "sameAs": [
-            "https://www.facebook.com/share/1Csh2Q4X3D/",
-            "https://www.instagram.com/doctor_care1/",
-            "https://x.com/doctor_care_1"
-          ]
+          "sameAs": socialSameAs
         })}
       </script>
 
@@ -130,7 +132,7 @@ const SEO = ({
               "name": "عناية طبيب - Doctor Care",
               "logo": {
                 "@type": "ImageObject",
-                "url": `${siteUrl}/assets/logo.png`
+                "url": `${siteUrl}/assets/logo.webp`
               }
             },
             "datePublished": publishedTime || new Date().toISOString(),
@@ -152,7 +154,7 @@ const SEO = ({
             "url": seoUrl,
             "logo": {
               "@type": "ImageObject",
-              "url": `${siteUrl}/assets/logo.png`,
+              "url": `${siteUrl}/assets/logo.webp`,
               "width": 512,
               "height": 512
             },
@@ -238,11 +240,7 @@ const SEO = ({
                 }
               ]
             },
-            "sameAs": [
-              "https://www.facebook.com/doctorcare.sa",
-              "https://www.twitter.com/doctorcare_sa",
-              "https://www.instagram.com/doctorcare.sa"
-            ]
+            "sameAs": socialSameAs
           }
         )}
       </script>

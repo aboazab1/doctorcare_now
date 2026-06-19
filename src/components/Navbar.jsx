@@ -120,7 +120,7 @@ const Navbar = () => {
                 className="relative"
               >
                 <img 
-                  src="/assets/logo.png" 
+                  src="/assets/logo.webp" 
                   alt="عناية طبيب" 
                   className="w-40 h-25 object-contain transition-all duration-300 group-hover:brightness-110"
                 />

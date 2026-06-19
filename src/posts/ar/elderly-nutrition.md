@@ -6,7 +6,7 @@ category: "صحة كبار السن"
 description: "دليل التغذية الصحية لكبار السن مع التركيز على العناصر الغذائية المهمة"
 author: "عناية طبيب الطبية"
 readingTime: "8"
-image: "/assets/blog/Healthy nutrition for the elderly.png"
+image: "/assets/blog/Healthy nutrition for the elderly.webp"
 ---
 
 # التغذية الصحية لكبار السن: ما يحتاجه الجسم

@@ -297,7 +297,7 @@ const HeroSection = () => {
               {/* Hero Image */}
               <div className="w-full h-96 lg:h-[500px] rounded-2xl overflow-hidden">
                 <img 
-                  src={`/assets/hero-image.png?v=${IMAGE_VERSION}`}
+                  src={`/assets/hero-image.webp?v=${IMAGE_VERSION}`}
                   alt="طبيب الرعاية - الرعاية الطبية المنزلية" 
                   className="w-full h-full object-cover"
                 />

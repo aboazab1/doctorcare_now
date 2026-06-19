@@ -359,10 +359,10 @@ const Home = () => {
             >
               <div className="grid grid-cols-2 gap-4">
                 {[
-                  { src: "/assets/us1.jpeg", alt: "فريقنا الطبي المتميز" },
-                  { src: "/assets/us2.jpeg", alt: "عضو فريق طبي" },
-                  { src: "/assets/us3.jpeg", alt: "عضو فريق طبي" },
-                  { src: "/assets/us4.jpeg", alt: "عضو فريق طبي" }
+                  { src: "/assets/us1.webp", alt: "فريقنا الطبي المتميز" },
+                  { src: "/assets/us2.webp", alt: "عضو فريق طبي" },
+                  { src: "/assets/us3.webp", alt: "عضو فريق طبي" },
+                  { src: "/assets/us4.webp", alt: "عضو فريق طبي" }
                 ].map((image, index) => (
                   <motion.a
                     key={index}
@@ -422,7 +422,7 @@ const Home = () => {
                              background: 'linear-gradient(135deg, #3498DB, #2B7BC7)'
                            }}>
                         <img 
-                          src="/assets/us1.jpeg"
+                          src="/assets/us1.webp"
                           alt="فريقنا الطبي المتميز - الصورة الرئيسية"
                           className="w-full h-full object-contain transition-transform duration-700 group-hover:scale-105"
                         />
@@ -470,10 +470,10 @@ const Home = () => {
                 {/* Circular Arrangement of Secondary Images */}
                 <div className="relative w-96 h-96 mx-auto">
                   {[
-                    { src: "/assets/us2.jpeg", alt: "عضو فريق طبي", angle: 0, delay: 0.4 },
-                    { src: "/assets/us3.jpeg", alt: "عضو فريق طبي", angle: 72, delay: 0.6 },
-                    { src: "/assets/us4.jpeg", alt: "عضو فريق طبي", angle: 144, delay: 0.8 },
-                    { src: "/assets/us5.jpeg", alt: "عضو فريق طبي", angle: 216, delay: 1.0 }
+                    { src: "/assets/us2.webp", alt: "عضو فريق طبي", angle: 0, delay: 0.4 },
+                    { src: "/assets/us3.webp", alt: "عضو فريق طبي", angle: 72, delay: 0.6 },
+                    { src: "/assets/us4.webp", alt: "عضو فريق طبي", angle: 144, delay: 0.8 },
+                    { src: "/assets/us5.webp", alt: "عضو فريق طبي", angle: 216, delay: 1.0 }
                   ].map((image, index) => {
                     const radius = 140;
                     const x = Math.cos((image.angle * Math.PI) / 180) * radius;

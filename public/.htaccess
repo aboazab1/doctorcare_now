@@ -19,7 +19,7 @@
   
   # Don't rewrite requests for files with extensions (js, css, images, etc.)
   # This catches any file with an extension that might be requested
-  RewriteCond %{REQUEST_URI} \.(js|mjs|css|png|jpg|jpeg|gif|ico|svg|woff|woff2|ttf|eot|json|xml|txt|pdf)$ [NC]
+  RewriteCond %{REQUEST_URI} \.(js|mjs|css|png|jpg|jpeg|gif|webp|ico|svg|woff|woff2|ttf|eot|json|xml|txt|pdf)$ [NC]
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteRule ^(.*)$ - [L]
   
@@ -43,6 +43,7 @@
   AddType text/css css
   
   # Images
+  AddType image/webp webp
   AddType image/png png
   AddType image/jpeg jpg jpeg
   AddType image/svg+xml svg svgz
@@ -70,9 +71,9 @@
   ExpiresByType image/jpg "access plus 1 year"
   ExpiresByType image/jpeg "access plus 1 year"
   ExpiresByType image/gif "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
   ExpiresByType image/png "access plus 1 year"
   ExpiresByType image/svg+xml "access plus 1 year"
-  ExpiresByType image/webp "access plus 1 year"
   ExpiresByType text/css "access plus 1 month"
   ExpiresByType application/javascript "access plus 1 month"
   ExpiresByType application/x-javascript "access plus 1 month"

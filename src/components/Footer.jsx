@@ -142,7 +142,7 @@ const Footer = () => {
                 whileHover={{ scale: 1.05, rotate: 5 }}
               >
                 <img 
-                  src="/assets/logo.png" 
+                  src="/assets/logo.webp" 
                   alt="عناية طبيب" 
                   className="w-40 h-25 object-contain filter drop-shadow-lg"
                 />

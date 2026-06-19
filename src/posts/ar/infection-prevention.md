@@ -6,7 +6,7 @@ category: "السلامة الطبية"
 description: "نصائح مهمة لمنع انتشار العدوى في المنزل خاصة مع وجود مرضى"
 author: "عناية طبيب الطبية"
 readingTime: "4"
-image: "/assets/blog/How to prevent infection at home.jpg"
+image: "/assets/blog/How to prevent infection at home.webp"
 ---
 
 # كيفية منع العدوى في المنزل

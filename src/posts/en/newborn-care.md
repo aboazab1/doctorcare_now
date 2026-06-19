@@ -6,7 +6,7 @@ category: "Children's Health"
 description: "Essential tips for caring for newborns in the first days after birth"
 author: "Doctor Care Medical"
 readingTime: "6"
-image: "/assets/blog/Newborn care.png"
+image: "/assets/blog/Newborn care.webp"
 ---
 
 # Newborn Care: Tips for New Mothers

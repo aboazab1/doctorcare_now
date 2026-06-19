@@ -6,7 +6,7 @@ category: "صحة القلب"
 description: "نصائح مهمة للعناية بمرضى القلب في المنزل وكيفية التعامل مع الحالات الطارئة"
 author: "عناية طبيب الطبية"
 readingTime: "5"
-image: "/assets/blog/Caring for heart patients at home.png"
+image: "/assets/blog/Caring for heart patients at home.webp"
 ---
 
 # كيفية العناية بمرضى القلب في المنزل

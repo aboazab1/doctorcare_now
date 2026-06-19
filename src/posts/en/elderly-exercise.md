@@ -6,7 +6,7 @@ category: "Fitness"
 description: "Best safe exercises for elderly to improve overall health"
 author: "Doctor Care Medical"
 readingTime: "5"
-image: "/assets/blog/Healthy nutrition for the elderly.jpg"
+image: "/assets/blog/Healthy routine for the elderly.webp"
 ---
 
 # Suitable Exercise for Elderly

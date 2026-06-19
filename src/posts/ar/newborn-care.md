@@ -6,7 +6,7 @@ category: "صحة الأطفال"
 description: "أهم النصائح للعناية بحديثي الولادة في الأيام الأولى بعد الولادة"
 author: "عناية طبيب الطبية"
 readingTime: "6"
-image: "/assets/blog/Newborn care.png"
+image: "/assets/blog/Newborn care.webp"
 ---
 
 # رعاية حديثي الولادة: نصائح للأمهات الجدد

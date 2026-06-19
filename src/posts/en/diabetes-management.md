@@ -6,7 +6,7 @@ category: "Diabetes"
 description: "Comprehensive guide for managing diabetes at home with important nutritional and medical tips"
 author: "Doctor Care Medical"
 readingTime: "7"
-image: "/assets/blog/Diabetes Management.png"
+image: "/assets/blog/Diabetes Management.webp"
 ---
 
 # Diabetes Management: Comprehensive Guide for Patients and Families

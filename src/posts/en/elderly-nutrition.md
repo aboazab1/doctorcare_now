@@ -6,7 +6,7 @@ category: "Elderly Health"
 description: "Guide to healthy nutrition for elderly with focus on important nutrients"
 author: "Doctor Care Medical"
 readingTime: "8"
-image: "/assets/blog/Healthy nutrition for the elderly.png"
+image: "/assets/blog/Healthy nutrition for the elderly.webp"
 ---
 
 # Healthy Nutrition for Elderly: What the Body Needs

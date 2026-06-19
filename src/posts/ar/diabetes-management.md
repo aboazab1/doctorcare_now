@@ -6,7 +6,7 @@ category: "مرض السكري"
 description: "دليل شامل لإدارة مرض السكري في المنزل مع نصائح غذائية وطبية مهمة"
 author: "د. فاطمة السعد"
 readingTime: "7"
-image: "/assets/blog/diabetes-management.jpg"
+image: "/assets/blog/Diabetes Management.webp"
 ---
 
 # إدارة مرض السكري: دليل شامل للمرضى والعائلات

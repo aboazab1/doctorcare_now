@@ -6,7 +6,7 @@ category: "Medical Safety"
 description: "Important tips to prevent infection spread at home especially with patients present"
 author: "Doctor Care Medical"
 readingTime: "4"
-image: "/assets/blog/How to prevent infection at home.jpg"
+image: "/assets/blog/How to prevent infection at home.webp"
 ---
 
 # How to Prevent Infection at Home

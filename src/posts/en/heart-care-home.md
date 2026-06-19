@@ -6,7 +6,7 @@ category: "Heart Health"
 description: "Important tips for caring for heart patients at home and how to handle emergency situations"
 author: "Doctor Care Medical"
 readingTime: "5"
-image: "/assets/blog/Caring for heart patients at home.png"
+image: "/assets/blog/Caring for heart patients at home.webp"
 ---
 
 # How to Care for Heart Patients at Home

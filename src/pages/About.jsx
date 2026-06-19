@@ -314,7 +314,7 @@ const About = () => {
                       {/* Image */}
                       <div className="relative h-80 overflow-hidden">
                         <img 
-                          src="/assets/about1.jpeg"
+                          src="/assets/about1.webp"
                           alt="رؤيتنا الطبية"
                           className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                         />
@@ -386,7 +386,7 @@ const About = () => {
                       {/* Image */}
                       <div className="relative h-80 overflow-hidden">
                         <img 
-                          src="/assets/about2.jpeg"
+                          src="/assets/about2.webp"
                           alt="رسالتنا الطبية"
                           className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                         />
@@ -458,7 +458,7 @@ const About = () => {
                       {/* Image */}
                       <div className="relative h-80 overflow-hidden">
                         <img 
-                          src="/assets/about3.jpeg"
+                          src="/assets/about3.webp"
                           alt="قيمنا الطبية"
                           className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-700"
                         />
@@ -592,7 +592,7 @@ const About = () => {
           >
             <div className="relative overflow-hidden rounded-2xl shadow-2xl">
               <img 
-                src="/assets/team.png"
+                src="/assets/team.webp"
                 alt="فريقنا الطبي المتميز"
                 className="w-full h-auto object-cover"
               />
